@@ -8,7 +8,7 @@ Duration: 25 May 2024 to 25 June 2024 (4 Weeks)
 
 Mentor Name: Sravani gouni
 
-#Description:#
+**Description:**
 Natural Language Processing (NLP) is a field at the intersection of computer science, artificial intelligence, and linguistics, focused on the interaction between computers and human language. The primary goal of NLP is to enable computers to understand, interpret, and generate human language in a way that is both meaningful and useful. NLP models are designed to perform a variety of tasks that can be broadly categorized into several areas.
 
 Firstly, there are language understanding tasks, which include syntactic and semantic analysis. Syntactic analysis, or parsing, involves breaking down sentences into their constituent parts to understand grammatical structure, while semantic analysis focuses on the meaning of the words and how they combine to form meaning in sentences. Named Entity Recognition (NER) and Part-of-Speech (POS) tagging are common tasks in this category.
